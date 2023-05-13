@@ -6,5 +6,5 @@ recreation of an email from Oakley
 
 ## My Version
 ![image](https://github.com/ADmcdon/Oakley_email/assets/107668054/569dbc22-cfeb-4cb1-ad0c-78d59706570e)
-![image](https://github.com/ADmcdon/Oakley_email/assets/107668054/c8f22821-2eb2-445c-aeb1-4f2d26ffc7b9)
+![image](https://github.com/ADmcdon/Oakley_email/assets/107668054/8cd6e18f-e5c7-4ed4-9264-557a4d414008)
 
